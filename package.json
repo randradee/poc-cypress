@@ -1,0 +1,17 @@
+{
+  "name": "poc-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "Renato Andrade",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^12.5.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
